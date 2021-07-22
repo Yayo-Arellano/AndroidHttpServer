@@ -2,8 +2,8 @@
 
 Do you want to learn how to embed an Http Web Server in Android. Read the tutorial
 
- - [Tutorial in spanish]()
- - [Tutorial in english]()
+ - [Tutorial in spanish](https://www.yayocode.com/2021/07/integrar-un-servidor-web-http-en-android.html)
+ - [Tutorial in english](https://www.yayocode.com/2021/07/embed-http-web-server-in-android.html)
  
 Or watch the video in youtube (in spanish)
 # Video
