@@ -12,7 +12,7 @@ interface UserRepository {
 }
 
 class UserRepositoryImp : UserRepository {
-    private var idCount = 0;
+    private var idCount = 0
     private val userList = ArrayList<User>()
 
     override fun userList(): ArrayList<User> = userList
